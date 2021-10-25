@@ -1,6 +1,6 @@
 - 👋 Hi, I’m dianchia
 - 👀 I’m interested in Machine Learning and Deep Learning
-- 🌱 I’m currently learning deep learning with Tensorflow and PyTorch
+- 🌱 I’m currently learning Deep Learning with Tensorflow and PyTorch
 - 📫 How to reach me
   - email: dianrui520@hotmail.com
 <!---
