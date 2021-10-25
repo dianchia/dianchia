@@ -1,6 +1,6 @@
 - 👋 Hi, I’m dianchia
 - 👀 I’m interested in Machine Learning and Deep Learning
-- 🌱 I’m currently learning to develop my own signature verification model with deep learning
+- 🌱 I’m currently learning deep learning with Tensorflow and PyTorch
 - 📫 How to reach me
   - email: dianrui520@hotmail.com
 <!---
